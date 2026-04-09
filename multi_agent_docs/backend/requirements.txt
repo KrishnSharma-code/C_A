@@ -1,0 +1,41 @@
+# FastAPI Backend
+fastapi
+uvicorn[standard]
+python-multipart
+
+# Database
+sqlalchemy
+
+# Auth
+python-jose[cryptography]
+bcrypt
+
+# LLM & Agent Framework
+langchain
+langchain-core
+langchain-openai
+langchain-anthropic
+langchain-community
+langgraph
+
+# Web Search (no API key required)
+duckduckgo-search
+
+# Vector Store (no external service)
+chromadb
+
+# File Processing
+gitpython
+
+# PDF Export (pure Python)
+fpdf2
+
+# Utils
+python-dotenv
+httpx
+pydantic[email]
+pydantic-settings
+aiofiles
+
+# Optional: Langfuse observability
+langfuse
